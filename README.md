@@ -17,6 +17,10 @@
 
 ## Changelog
 
-#### Version 1.0.0 (12/4/2014)
+### Version 1.1.0 (8/5/2016)
+
+* Style now includes the "normal" input background color. Use `#181818` to match the GitHub Dark background colors.
+
+### Version 1.0.0 (12/4/2014)
 
 * Initial commit
