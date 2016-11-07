@@ -8,10 +8,10 @@
   }
   /* add red block after 50 characters to show suggested limit */
   #commit-summary-input {
-    background: linear-gradient(to right, /*[[input-color]]*/ #fafafa 0%, /*[[input-color]]*/ #fafafa 51ch, /*[[overlimit-color]]*/ #ffdddd 51ch) !important;
+    background-image: linear-gradient(to right, transparent 0%, transparent 51ch, /*[[overlimit-color]]*/ #ffdddd 51ch) !important;
   }
   /* add red block after 72 characters to show suggested limit */
   #commit-description-textarea {
-    background: linear-gradient(to right, /*[[input-color]]*/ #fafafa 0%, /*[[input-color]]*/ #fafafa 73ch, /*[[overlimit-color]]*/ #ffdddd 73ch) !important;
+    background-image: linear-gradient(to right, transparent 0%, transparent 73ch, /*[[overlimit-color]]*/ #ffdddd 73ch) !important;
   }
 }
