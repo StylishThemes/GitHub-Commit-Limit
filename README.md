@@ -17,6 +17,10 @@
 
 ## Changelog
 
+### Version 1.2.0 (11/7/2016)
+
+* Removed the "normal" input background color. It now sets the initial part of the gradient as a transparent background.
+
 ### Version 1.1.0 (8/5/2016)
 
 * Style now includes the "normal" input background color. Use `#181818` to match the GitHub Dark background colors.
