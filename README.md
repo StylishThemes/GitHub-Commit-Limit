@@ -21,17 +21,3 @@ Then:
 
 📦 [Install the usercss](https://raw.githubusercontent.com/StylishThemes/GitHub-Commit-Limit/master/github-commit-limit.user.css). Supports automatic updates.<br>
 📦 [Install from userstyles.org](https://userstyles.org/styles/130386). Does not support automatic updates & is NO LONGER UPDATED.
-
-## Changelog
-
-### Version 1.2.0 (11/7/2016)
-
-* Removed the "normal" input background color. It now sets the initial part of the gradient as a transparent background. See [GitHub Dark issue #429](https://github.com/StylishThemes/GitHub-Dark/issues/429).
-
-### Version 1.1.0 (8/5/2016)
-
-* Style now includes the "normal" input background color. Use `#181818` to match the GitHub Dark background colors.
-
-### Version 1.0.0 (12/4/2014)
-
-* Initial commit
