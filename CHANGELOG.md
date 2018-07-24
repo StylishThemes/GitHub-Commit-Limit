@@ -1,3 +1,14 @@
+### Version 2.0.0 (2018-07-24)
+
+* Switch file to `user.css`.
+* Readme:
+  * Update issue link.
+  * Add Stylus link & license.
+  * Add link to Safari addon; then removed.
+  * Add Stylus Firefox addon link.
+  * Update info - remove Stylish addon.
+  * Moved change log to separate file.
+
 ### Version 1.2.0 (2016-11-07)
 
 * Removed the "normal" input background color. It now sets the initial part of the gradient as a transparent background. See [GitHub Dark issue #429](https://github.com/StylishThemes/GitHub-Dark/issues/429).
