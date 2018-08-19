@@ -1,3 +1,14 @@
+### Version 2.0.1 (2018-08-18)
+
+* Readme:
+  * Move image to folder.
+  * Add contributing section.
+* Meta:
+  * Add contributing file.
+  * Update dot files.
+  * Add scripts.
+  * Run clean script & add missing semi-colons.
+
 ### Version 2.0.0 (2018-07-24)
 
 * Switch file to `user.css`.
