@@ -14,15 +14,26 @@
 ==/UserStyle== */
 @-moz-document domain("github.com") {
   :root {
-    --overlimit-color: /*[[overlimit-color]]*/
-    --font-choice: /*[[font-choice]]*/
+    --overlimit-color: /*[[overlimit-color]]*/;
+    --font-choice: /*[[font-choice]]*/;
   }
-/*! Github Commit Changes visual limts */
-/* See http://tbaggery.com/2008/04/19/a-note-about-git-commit-messages.html */
+  /*! Github Commit Changes visual limts */
+  /* See http://tbaggery.com/2008/04/19/a-note-about-git-commit-messages.html */
   #commit-summary-input, #commit-description-textarea {
-    font-family: var(--font-choice), Consolas, "Andale Mono WT", "Andale Mono", "Lucida Console",
-      "Lucida Sans Typewriter", "DejaVu Sans Mono", "Bitstream Vera Sans Mono",
-      "Liberation Mono", "Nimbus Mono L", Monaco, "Courier New", Courier, monospace !important;
+    font-family: var(--font-choice),
+                     Consolas,
+                     "Andale Mono WT",
+                     "Andale Mono",
+                     "Lucida Console",
+                     "Lucida Sans Typewriter",
+                     "DejaVu Sans Mono",
+                     "Bitstream Vera Sans Mono",
+                     "Liberation Mono",
+                     "Nimbus Mono L",
+                     Monaco,
+                     "Courier New",
+                     Courier,
+                     monospace !important;
   }
   /* add red block after 50 characters to show suggested limit */
   #commit-summary-input {
