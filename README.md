@@ -21,3 +21,14 @@ Then:
 
 📦 [Install the usercss](https://raw.githubusercontent.com/StylishThemes/GitHub-Commit-Limit/master/github-commit-limit.user.css). Supports automatic updates.<br>
 📦 [Install from userstyles.org](https://userstyles.org/styles/130386). Does not support automatic updates & is NO LONGER UPDATED.
+
+## Contributions
+
+If you would like to contribute to this repository, please...
+
+1. 👓 Read the [contribution guidelines](CONTRIBUTING.md).
+2. ![repo-forked](https://user-images.githubusercontent.com/136959/42383736-c4cb0db8-80fd-11e8-91ca-12bae108bccc.png) [fork](https://github.com/StylishThemes/GitHub-Commit-Limit/fork) or ![cloud-download](https://user-images.githubusercontent.com/136959/42401932-9ee9cae0-813d-11e8-8691-16e29a85d3b9.png)
+[Download](https://github.com/StylishThemes/GitHub-Commit-Limit/archive/master.zip),
+3. 👌 Create a pull request!
+
+Thanks to all that have [contributed](AUTHORS) so far!
