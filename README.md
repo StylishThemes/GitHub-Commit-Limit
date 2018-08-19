@@ -8,7 +8,7 @@ Here are some issues with making a change to a file online at GitHub:
 This style was inspired by [this thread](https://github.com/torvalds/linux/pull/17) :heart: Linus
 
 ## Preview
-![GitHub Commit Limit preview](commit-limit.png)
+![GitHub Commit Limit preview](images/commit-limit.png)
 
 ## Install
 
