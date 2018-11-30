@@ -1,3 +1,8 @@
+### Version 2.0.2 (2018-11-30)
+
+* Apply commit limit to pull-request merge messages.
+* Meta: Fix perfectionist.
+
 ### Version 2.0.1 (2018-08-18)
 
 * Readme:
