@@ -36,11 +36,11 @@
                      monospace !important;
   }
   /* add red block after 50 characters to show suggested limit */
-  #commit-summary-input {
+  #commit-summary-input, #merge_title_field {
     background-image: linear-gradient(to right, transparent 0%, transparent 51ch, var(--overlimit-color) 51ch) !important;
   }
   /* add red block after 72 characters to show suggested limit */
-  #commit-description-textarea {
+  #commit-description-textarea, #merge_message_field {
     background-image: linear-gradient(to right, transparent 0%, transparent 73ch, var(--overlimit-color) 73ch) !important;
   }
 }
